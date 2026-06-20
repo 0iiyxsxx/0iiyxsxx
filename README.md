@@ -1,59 +1,50 @@
-# 0iiyxsxx
+<!-- DARK CORE PROFILE -->
 
-> Quiet mind. Calm code. Built around simplicity and intention.
+<div align="center">
 
----
+# YAHYA / 0iiyxsxx
 
-## About Me
-
-I’m a developer who prefers calm environments, slow thinking, and clean execution.  
-I enjoy the feeling of quiet places, natural landscapes, and the balance between creativity and logic.
-
-I don’t rush things. I build them properly.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=30&fontColor=ffffff" />
 
 ---
 
-## Current Focus
+### “quiet mind. loud system.”
 
-- Learning and improving programming fundamentals  
-- Exploring software development and creative coding  
-- Building small projects with clean design and purpose  
-- Growing consistency over intensity  
+</div>
 
 ---
 
-## Skills
+## PROFILE
 
-**Languages**
-- Python
-- JavaScript
-- HTML / CSS
+My name is **Yahya**.  
+I build things in silence, focused on structure, logic, and control.
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Basic Linux
+I like dark aesthetics, digital chaos, and calm execution.
 
 ---
 
-## Projects
+## CORE STACK
 
-- Project One — *coming soon*
-- Project Two — *coming soon*
-- Project Three — *coming soon*
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0iiyxsxx&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0iiyxsxx&layout=compact&hide_border=true)
+- Python  
+- JavaScript  
+- CSS  
+- JSON  
 
 ---
 
-## Closing
+## CURRENT STATE
 
-Still building. Still learning.  
-One line of code at a time.
+- Learning deeper programming logic  
+- Building small systems and experiments  
+- Improving consistency over time  
+- Exploring creative coding styles  
 
+---
+
+## SYSTEM STATUS
+
+```txt
+FOCUS      :: ACTIVE
+DISCIPLINE :: STABLE
+ENERGY     :: LOW / CONTROLLED
+MINDSET    :: OBSERVING

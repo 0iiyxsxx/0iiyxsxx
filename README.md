@@ -1,50 +1,20 @@
-<!-- DARK CORE PROFILE -->
+<!-- DARK CORE PROFILE README -->
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:2b0000&height=200&section=header&text=DXIO%20SYSTEM&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-# YAHYA / 0iiyxsxx
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=180&section=header&text=SYSTEM%20ONLINE&fontSize=30&fontColor=ffffff" />
-
----
-
-### “quiet mind. loud system.”
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=2500&pause=800&color=FF0033&center=true&vCenter=true&width=600&lines=Yahya+//+System+Online;Python+%7C+JS+%7C+CSS+%7C+JSON;Building+digital+chaos+in+silence;Deathcore+mindset+//+clean+execution" />
+</p>
 
 ---
 
-## PROFILE
-
-My name is **Yahya**.  
-I build things in silence, focused on structure, logic, and control.
-
-I like dark aesthetics, digital chaos, and calm execution.
-
----
-
-## CORE STACK
-
-- Python  
-- JavaScript  
-- CSS  
-- JSON  
-
----
-
-## CURRENT STATE
-
-- Learning deeper programming logic  
-- Building small systems and experiments  
-- Improving consistency over time  
-- Exploring creative coding styles  
-
----
-
-## SYSTEM STATUS
+## // IDENTITY
 
 ```txt
-FOCUS      :: ACTIVE
-DISCIPLINE :: STABLE
-ENERGY     :: LOW / CONTROLLED
-MINDSET    :: OBSERVING
+NAME: Yahya
+STATUS: ACTIVE
+ROLE: Student / Developer
+CORE STACK: Python • JavaScript • CSS • JSON
+MINDSET: minimal talk / maximum output
